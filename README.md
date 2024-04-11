@@ -13,14 +13,14 @@
 
 - 🤝 I’m looking for help with **Front-end development**
 
-- 👨‍💻 All of my projects are available at [LinkedIn](LinkedIn)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/imanka-jayakody-71b3b9287](www.linkedin.com/in/imanka-jayakody-71b3b9287)
 
 - 📫 How to reach me **i.ayeshjayakody@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imanka jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanka jayakody" height="30" width="40" /></a>
-<a href="https://fb.com/imanka jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imanka jayakody" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/imanka-jayakody-71b3b9287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imanka-jayakody-71b3b9287" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/imanka.jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/imanka.jayakody" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
